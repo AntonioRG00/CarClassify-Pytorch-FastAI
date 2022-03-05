@@ -4,4 +4,4 @@
 
 La temática del proyecto va sobre clasificación de imágenes con Pytorch y FastAI.
 
-Actualimente el proyecto puede clasificar 4 marcas de coche (BMW, AUDI, PORSCHE y MERCEDES).
+Actualmente el proyecto puede clasificar 4 marcas de coche (BMW, AUDI, PORSCHE y MERCEDES).
